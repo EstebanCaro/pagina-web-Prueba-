@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/copesa/LXPJON3AOBGBVP77PENCNSEU7Q.jpg);
+}
+.container{
+    background-color: aqua;
+}
+p{
+    color: black;
+}
+b{
+    color: red;
+}
+ul{
+    color: blue;
+}

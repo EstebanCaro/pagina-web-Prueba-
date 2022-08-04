@@ -1,0 +1,23 @@
+.container{
+    background-color:rgb(130, 161, 177);
+    color: red;
+}
+
+    
+#segundoContainer{
+    background-color: rgb(115, 194, 251);
+}
+
+#mitad{
+    color:black;
+}
+
+#fin{
+    color: yellow;
+    background-color: rgb(130, 161, 177);
+
+}
+
+body{
+    background-color: grey;
+}
